@@ -1,4 +1,4 @@
-# ControleEstoque-<seu_rm>
+# ControleEstoque-20240024
 
 API REST para controle de estoque com módulo de vendas desenvolvida em Spring Boot.
 
@@ -18,4 +18,4 @@ API REST para controle de estoque com módulo de vendas desenvolvida em Spring B
 
 ## Como executar
 
-git clone https://github.com/seu-usuario/ControleEstoque-<seu_rm>.git
+git clone https://github.com/seu-usuario/ControleEstoque-20240024.git
