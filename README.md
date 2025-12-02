@@ -42,8 +42,8 @@ Passos para Execução
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/ControleEstoque-<seu_rm>.git
-cd ControleEstoque-<seu_rm>
+git clone https://github.com/seu-usuario/ControleEstoque-20240024.git
+cd ControleEstoque-20240024
 
 1. Configure o banco de dados:
    · Crie um banco de dados no MariaDB/MySQL chamado estoque_db
